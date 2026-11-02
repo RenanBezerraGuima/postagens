@@ -3,4 +3,3 @@ Os outros providers do cliamp tinham atalhos de troca rápida, menos o YouTube M
 Incluí `U` na ajuda de atalhos e atualizei a documentação e a página do projeto.
 
 Não rodei os testes.
-Diário cliamp, 01/11/2026
